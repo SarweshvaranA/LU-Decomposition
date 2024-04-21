@@ -43,10 +43,9 @@ print(sol)
 
 ## Output:
 i)
-![Screenshot 2024-04-16 202701](https://github.com/SarweshvaranA/LU-Decomposition/assets/146930981/2a0dd953-5ecf-428f-a1f0-ea2cb5fcd16c)
-
+![LU decomposition](<LU decompostion 1.png>) 
 ii)
-![Screenshot 2024-04-16 202711](https://github.com/SarweshvaranA/LU-Decomposition/assets/146930981/41fc95e9-8f68-4181-bda5-97cb9f54a5fd)
+![LU decomposition](<LU decomposition 2.png>)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
